@@ -1,10 +1,10 @@
 {
   "name": "robofriends",
-  "homepage": "https://cristiysha.github.io/robofriends",
+  "homepage": "https://Cristiysha.github.io/robofriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
